@@ -1,4 +1,5 @@
 All ships screenshots.
+Paintjobs aliases can be found here: https://github.com/EDSM-NET/Alias/blob/master/Ship/PaintJob.php
 
 Options:
 - Resolution: 1920/1080px
