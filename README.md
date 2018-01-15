@@ -6,3 +6,6 @@ Options:
 - Supersampling: x2
 - Quality: Ultra
 - FOV to ingame maximum
+
+
+Don't forget to give credits to https://www.edsm.net/ if you use them.
